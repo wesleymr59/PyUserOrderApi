@@ -18,6 +18,6 @@ watchgod==0.7
 websockets==10.2
 SQLAlchemy==2.0.7
 PyMySQL==1.0.2
-python-jose==3.3.0
+python-jose==3.4.0
 passlib==1.7.4
 redis==4.5.1
